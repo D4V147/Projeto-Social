@@ -12,12 +12,13 @@
 
 img{
     width: 100vw;
-    padding: 0px;
+    margin-bottom: 0px;
 }
 a {
     display: block;
     background-color: darkred;
-    padding: 20pxpx;
+    margin-top: 0px;
+    padding: 20px;
     text-align: center; 
     font-weight: bolder;
     text-decoration: none;
